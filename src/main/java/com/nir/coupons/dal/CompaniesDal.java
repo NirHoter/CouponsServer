@@ -13,6 +13,11 @@ import java.util.List;
 @Repository
 public class CompaniesDal {    כאן עצרתי בפרויקט שלב 2 . נשאר זה ומטה
 
+
+    // adasffgd
+    //asdfgh
+    //asdfghjk
+
     public int createCompany(Company company) throws ServerException {
         Connection connection = null;
         PreparedStatement preparedStatement = null;
