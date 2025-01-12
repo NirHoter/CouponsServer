@@ -13,7 +13,7 @@ import java.util.List;
 @Repository
 public class CompaniesDal {    כאן עצרתי בפרויקט שלב 2 . נשאר זה ומטה
 
-
+//asdfghj
     // adasffgd
     //asdfgh
     //asdfghjk
